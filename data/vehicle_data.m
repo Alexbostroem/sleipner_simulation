@@ -10,3 +10,4 @@ airDensity = 1.23;
 
 frontArea = 12;
 
+massVeh = 1500;
